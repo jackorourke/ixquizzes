@@ -66,7 +66,7 @@ bruce = Shark.new("gray", "Bruce", 40)
 fish_array = [nemo, erica, ian]
 
 bruce.binge_eat fish_array
-puts bruce.what_i_ate
+bruce.what_i_ate
 # STEP 7: Let's instantiate some fish!!! Create an instance of fish in the variable "nemo", who is orange, 
 # named Nemo, and swims 10 km/hr. Call "get_speed" on your new instance and puts the return value.
 # STEP 8: MORE FISH! Create 2 more instances of different types of fish, and save them to 
